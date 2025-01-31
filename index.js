@@ -25,9 +25,9 @@ function testSubtract() {
 }
 
 function testMultiply(a, b) {
-    console.log(myltiply(2, 3)===6);
+    console.log(myltiply(3, 3)===9);
 }
 
 function testDiv() {
-    console.log((div(6, 3) === 2;))
+    console.log((div(6, 2) === 3;))
 }
